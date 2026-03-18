@@ -18,27 +18,18 @@ I specialize in designing and implementing **financial rails, digital wallets, a
 
 ## Core Technologies
 
-**Backend**
-- PHP / Laravel
-- Go
-- Node.js
+| Backend | Frontend |
+|--------|---------|
+| PHP / Laravel | Vue.js |
+| Go | Quasar |
+| Node.js | TypeScript |
 
-**Frontend**
-- Vue.js
-- Quasar
-- TypeScript
-
-**Infrastructure**
-- Docker
-- AWS
-- PostgreSQL / Redis
-- MongoDB
-
-**Blockchain**
-- Stellar
-- Soroban
-- Tokenized systems
-- Bridge
+| Infrastructure | Blockchain |
+|---------------|-----------|
+| Docker | Stellar |
+| AWS | Soroban |
+| PostgreSQL | Tokenized systems |
+| Redis | |
 
 ---
 
