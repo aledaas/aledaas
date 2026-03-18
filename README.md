@@ -1,5 +1,5 @@
 # Alejandro Ibrahin Daas
-
+Building financial infrastructure, tokenized ecosystems, and scalable platform architectures.
 Platform Architect focused on building scalable financial systems, blockchain infrastructure, and modular backend platforms.
 
 I specialize in designing and implementing **financial rails, digital wallets, and tokenized ecosystems**, with experience across fintech integrations, blockchain infrastructure, and distributed backend architectures.
@@ -43,6 +43,8 @@ I specialize in designing and implementing **financial rails, digital wallets, a
 ---
 
 ## Key Projects
+### FavorX
+Tokenized ecosystem designed to enable the creation, exchange, and coordination of digital favors and services through blockchain-based value systems.
 
 ### Conversion Engine
 Architecture for value conversion across financial networks, currencies, and tokenized assets.
@@ -50,8 +52,6 @@ Architecture for value conversion across financial networks, currencies, and tok
 ### Bridge Rails
 Laravel package that integrates Bridge.xyz financial rails into backend platforms.
 
-### FavorX
-Tokenized ecosystem designed to enable the creation, exchange, and coordination of digital favors and services through blockchain-based value systems.
 
 ---
 
