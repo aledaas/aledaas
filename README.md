@@ -45,7 +45,23 @@ Laravel package that integrates Bridge.xyz financial rails into backend platform
 
 
 ---
+## Vision
 
+I am currently working toward building a **modular financial infrastructure layer** that enables platforms to integrate financial capabilities through a unified architecture.
+
+The long-term goal is to provide a system capable of connecting:
+
+- payment rails
+- digital wallets
+- tokenized ecosystems
+- liquidity networks
+- multi-provider financial integrations
+
+Through this architecture, platforms can access **conversion, liquidity, onboarding, and financial operations** without needing to integrate each provider individually.
+
+This vision combines **financial infrastructure, blockchain systems, and scalable backend platforms** into a single programmable layer.
+
+---
 ## What I enjoy building
 
 - Financial infrastructure
