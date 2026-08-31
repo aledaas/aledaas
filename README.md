@@ -1,85 +1,153 @@
-# Alejandro Ibrahin Daas
-Building financial infrastructure, tokenized ecosystems, and scalable platform architectures.
-Platform Architect focused on building scalable financial systems, blockchain infrastructure, and modular backend platforms.
+<div align="center">
 
-I specialize in designing and implementing **financial rails, digital wallets, and tokenized ecosystems**, with experience across fintech integrations, blockchain infrastructure, and distributed backend architectures.
+# 💎 DIAMONT
 
----
+### Knowledge Crystallization Model
 
-## Current Focus
+#### Current Engineering Specification
 
-- Fintech infrastructure and financial rails
-- Digital wallets and payment orchestration
-- Blockchain and tokenized ecosystems
-- Scalable backend architectures
-- API platforms and financial integrations
+> *Engineering is not the accumulation of software.*
+>
+> *Engineering is the crystallization of knowledge.*
+
+</div>
 
 ---
 
-## Core Technologies
+## Current Status
 
-| Backend | Frontend |
-|--------|---------|
-| PHP / Laravel | Vue.js |
-| Go | Quasar |
-| Node.js | TypeScript |
-
-| Infrastructure | Blockchain |
-|---------------|-----------|
-| Docker | Stellar |
-| AWS | Soroban |
-| PostgreSQL | Tokenized systems |
-| Redis | |
+> 🚧 **Work in Progress**
+>
+> Diamont is an engineering research project focused on replacing the traditional software production model with a knowledge crystallization model.
+>
+> This GitHub documents its evolution.
 
 ---
 
-## Key Projects
-### FavorX
-Tokenized ecosystem designed to enable the creation, exchange, and coordination of digital favors and services through blockchain-based value systems.
+# Current Engineering Model
 
-### Conversion Engine
-Architecture for value conversion across financial networks, currencies, and tokenized assets.
+Instead of organizing software around Projects, Features and Tasks, Diamont models engineering as the continuous evolution of reusable knowledge.
 
-### Bridge Rails
-Laravel package that integrates Bridge.xyz financial rails into backend platforms.
-
-
----
-## Vision
-
-I am currently working toward building a **modular financial infrastructure layer** that enables platforms to integrate financial capabilities through a unified architecture.
-
-The long-term goal is to provide a system capable of connecting:
-
-- payment rails
-- digital wallets
-- tokenized ecosystems
-- liquidity networks
-- multi-provider financial integrations
-
-Through this architecture, platforms can access **conversion, liquidity, onboarding, and financial operations** without needing to integrate each provider individually.
-
-This vision combines **financial infrastructure, blockchain systems, and scalable backend platforms** into a single programmable layer.
-
----
-## What I enjoy building
-
-- Financial infrastructure
-- Payment systems
-- Backend platforms
-- Tokenized ecosystems
-- Developer tools and reusable packages
+```text
+Requirement
+      │
+      ▼
+     Mina
+      │
+      ▼
+ Crystal Discovery
+      │
+      ├───────────────┐
+      │               │
+Existing         New Crystal
+ Crystal              │
+      │               │
+   New Face           │
+      └───────┬───────┘
+              ▼
+      Mission Control
+              │
+              ▼
+     Orfebre / Workers
+              │
+              ▼
+          Runner
+              │
+              ▼
+ Continuous Crystallization
+```
 
 ---
 
-## GitHub Activity
+# Engineering Vocabulary
 
-Most of my recent work is part of **private fintech systems and financial platforms**, but I maintain public repositories that reflect architectural patterns and reusable components.
+| Traditional | Diamont |
+|--------------|----------|
+| Project | Software Factory |
+| Milestone | Requirement |
+| Feature | Crystal |
+| Task | Face |
+| Backlog | Mina |
+| Dashboard | Mission Control |
+| Local Environment | Runner |
+| Delivery | Crystallization |
 
 ---
 
-## Connect
+# Production Components
 
-- LinkedIn: https://linkedin.com/in/aledaas
-- GitHub: https://github.com/aledaas
-- Website: https://alejandrodaas.site
+| Component | Responsibility |
+|-----------|----------------|
+| 💎 **Diamont** | Knowledge Crystallization Model |
+| ⛏ **Mina** | Requirement discovery and crystal identification |
+| 💠 **Crystals** | Reusable engineering capabilities |
+| 🎯 **Mission Control** | Production orchestration |
+| ⚙ **Runner** | Local execution environment |
+| 🤖 **Workers** | Engineering automation |
+
+---
+
+# Engineering Domains
+
+| Domain | Current Crystals |
+|---------|------------------|
+| 💳 Finance | Payment · Onboarding · Provider |
+| 🪙 Assets | Crypto · Assets |
+| 🤖 AI | Workers · Workflow · Evidence |
+| 📱 Mobile | Native Kotlin Framework |
+| 🌐 Platform | Portfolio · Mission Control · Runner |
+
+---
+
+# Production Stack
+
+| Layer | Standard |
+|--------|----------|
+| Backend | Laravel |
+| Web | Vue |
+| Mobile | Native Kotlin + Jetpack Compose |
+| Database | PostgreSQL |
+| Infrastructure | Docker · Redis · AWS |
+
+---
+
+# Current Research
+
+Current research focuses on the continuous evolution of the engineering model itself.
+
+- Knowledge Crystallization
+- Software Production Systems
+- AI-assisted Engineering
+- Native Mobile Framework
+- Financial Infrastructure
+- Adaptive Architectures
+
+---
+
+# Ecosystem
+
+| Repository | Purpose |
+|------------|---------|
+| 💎 Diamont | Knowledge Crystallization Model |
+| 🎯 Portfolio | Software Factory Platform |
+| ⚙ Runner | Distributed Execution |
+| 💳 Finance | Engineering Domains |
+| 🪙 Assets | Digital Asset Domains |
+
+---
+
+<div align="center">
+
+### Current Evolution
+
+Knowledge is never finished.
+
+Every Requirement should evolve an existing Crystal whenever possible.
+
+New Crystals are created only when engineering knowledge cannot be represented by an existing one.
+
+---
+
+**Building the future of software production.**
+
+</div>
