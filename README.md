@@ -6,27 +6,39 @@
 
 #### Current Engineering Specification
 
-> *Engineering is not the accumulation of software.*
->
-> *Engineering is the crystallization of knowledge.*
+*A public research initiative exploring a new production model where software evolves through knowledge crystallization instead of feature accumulation.*
 
 </div>
 
 ---
 
-## Current Status
+# Current Status
 
-> 🚧 **Work in Progress**
->
-> Diamont is an engineering research project focused on replacing the traditional software production model with a knowledge crystallization model.
->
-> This GitHub documents its evolution.
+> 🚧 **Research in Progress**
+
+This GitHub documents the evolution of **DIAMONT**.
+
+The implementation is intentionally separated from the specification.
+
+Portfolio is the first implementation of the model — not its definition.
+
+---
+
+# Read the Specification
+
+The documentation follows a strict hierarchy.
+
+| Document | Purpose |
+|----------|---------|
+| 📜 [Constitution](https://github.com/aledaas/diamont/blob/main/docs/CONSTITUTION.md) | Immutable laws of the model |
+| 🏛 [Foundation](https://github.com/aledaas/diamont/blob/main/docs/FOUNDATION.md) | Scope, purpose and research direction |
+| 💡 [Manifesto](https://github.com/aledaas/diamont/blob/main/docs/MANIFESTO.md) | Philosophical orientation |
+| 🔬 [Discoveries](https://github.com/aledaas/diamont/tree/main/discoveries) | Knowledge generated during research |
+| 🧪 [Research](https://github.com/aledaas/diamont/tree/main/research) | Experiments, protocols and studies |
 
 ---
 
 # Current Engineering Model
-
-Instead of organizing software around Projects, Features and Tasks, Diamont models engineering as the continuous evolution of reusable knowledge.
 
 ```text
 Requirement
@@ -51,18 +63,20 @@ Existing         New Crystal
      Orfebre / Workers
               │
               ▼
-          Runner
+           Runner
               │
               ▼
- Continuous Crystallization
+Continuous Crystallization
 ```
+
+> This workflow represents the current implementation model and continues to evolve together with DIAMONT.
 
 ---
 
 # Engineering Vocabulary
 
-| Traditional | Diamont |
-|--------------|----------|
+| Traditional Software | DIAMONT |
+|----------------------|----------|
 | Project | Software Factory |
 | Milestone | Requirement |
 | Feature | Crystal |
@@ -70,42 +84,48 @@ Existing         New Crystal
 | Backlog | Mina |
 | Dashboard | Mission Control |
 | Local Environment | Runner |
-| Delivery | Crystallization |
+| Delivery | Continuous Crystallization |
 
 ---
 
-# Production Components
+# Engineering Components
 
-| Component | Responsibility |
-|-----------|----------------|
-| 💎 **Diamont** | Knowledge Crystallization Model |
-| ⛏ **Mina** | Requirement discovery and crystal identification |
-| 💠 **Crystals** | Reusable engineering capabilities |
-| 🎯 **Mission Control** | Production orchestration |
-| ⚙ **Runner** | Local execution environment |
-| 🤖 **Workers** | Engineering automation |
+Each component is documented independently.
+
+| Component | Specification |
+|-----------|---------------|
+| 💎 DIAMONT | Engineering Specification |
+| ⛏ Mina | Requirement Discovery |
+| 💠 Crystal | Reusable Engineering Knowledge |
+| ✨ Face | Crystal Evolution |
+| 🎯 Mission Control | Production Visibility |
+| ⚙ Runner | Local Execution |
+| 👤 Orfebre | Human Engineering Role |
+| 🤖 Workers | Artificial Engineering Roles |
 
 ---
 
 # Engineering Domains
 
-| Domain | Current Crystals |
-|---------|------------------|
+Current crystallization work is organized by engineering domains.
+
+| Domain | Active Crystals |
+|---------|-----------------|
 | 💳 Finance | Payment · Onboarding · Provider |
 | 🪙 Assets | Crypto · Assets |
 | 🤖 AI | Workers · Workflow · Evidence |
 | 📱 Mobile | Native Kotlin Framework |
-| 🌐 Platform | Portfolio · Mission Control · Runner |
+| 🌐 Platform | Portfolio · Runner |
 
 ---
 
-# Production Stack
+# Standard Production Platform
 
 | Layer | Standard |
 |--------|----------|
 | Backend | Laravel |
 | Web | Vue |
-| Mobile | Native Kotlin + Jetpack Compose |
+| Mobile | Native Kotlin |
 | Database | PostgreSQL |
 | Infrastructure | Docker · Redis · AWS |
 
@@ -113,12 +133,10 @@ Existing         New Crystal
 
 # Current Research
 
-Current research focuses on the continuous evolution of the engineering model itself.
-
 - Knowledge Crystallization
-- Software Production Systems
-- AI-assisted Engineering
+- Engineering Production Systems
 - Native Mobile Framework
+- AI-assisted Engineering
 - Financial Infrastructure
 - Adaptive Architectures
 
@@ -126,28 +144,20 @@ Current research focuses on the continuous evolution of the engineering model it
 
 # Ecosystem
 
-| Repository | Purpose |
-|------------|---------|
-| 💎 Diamont | Knowledge Crystallization Model |
-| 🎯 Portfolio | Software Factory Platform |
-| ⚙ Runner | Distributed Execution |
-| 💳 Finance | Engineering Domains |
-| 🪙 Assets | Digital Asset Domains |
+| Repository | Role |
+|------------|------|
+| 💎 Diamont | Specification |
+| 🎯 Portfolio | First implementation |
+| ⚙ Runner | Local execution |
+| 💳 Finance | Engineering domains |
+| 🪙 Assets | Engineering domains |
 
 ---
 
 <div align="center">
 
-### Current Evolution
+**Knowledge is never finished.**
 
-Knowledge is never finished.
-
-Every Requirement should evolve an existing Crystal whenever possible.
-
-New Crystals are created only when engineering knowledge cannot be represented by an existing one.
-
----
-
-**Building the future of software production.**
+Crystals continuously evolve through new Faces.
 
 </div>
